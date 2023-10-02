@@ -35,7 +35,6 @@ docker-compose up -d
 ```bash
 docker-compose run backend sh -c "python manage.py test"
 ```
-```
 
 ### Run tests for frontend
 
