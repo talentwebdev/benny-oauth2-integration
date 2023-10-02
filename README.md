@@ -12,6 +12,7 @@ I didn't embed React into Django template for following reasons:
 1. We'll want to develop backend and frontend separately when we have dedicated devs for backend and frontend. 
 2. When we deploy backend and frontend to cloud, we can easily setup serverless and load balancing for backend and frontend. 
 
+[Workflow Video](https://www.loom.com/share/2b5c6b1924c942a6ad3c45bccc3ee217)
 
 ## Get Started
 
