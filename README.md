@@ -61,3 +61,5 @@ that for this simple authentication. Though we're currently implementing single 
 it's designed to integrate other social networks easily and effectively. 
 
 I can elaborate more in the technical interview if you have more questions. 
+
+**Elapsed Time**: 5 hours
